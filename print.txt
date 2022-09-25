@@ -12,4 +12,9 @@ time laps outside in 101
 60 push ups
 20pull ups 
 10sit ups 
+settig up visual studio code 
+fother making changis to demo text 
+moving files for working area (git add modified files)
+git status to view file status 
+moving file to staging an fother commit files to local reopsitory
 
