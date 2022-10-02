@@ -20,4 +20,5 @@ moving file to staging an fother commit files to local reopsitory
 commit history 
 aplication growing based on commit 
 progress on the job 
+how to start a resume on inportant content
 
