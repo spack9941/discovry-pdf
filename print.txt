@@ -17,4 +17,7 @@ fother making changis to demo text
 moving files for working area (git add modified files)
 git status to view file status 
 moving file to staging an fother commit files to local reopsitory
+commit history 
+aplication growing based on commit 
+progress on the job 
 
