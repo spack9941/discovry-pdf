@@ -21,4 +21,16 @@ commit history
 aplication growing based on commit 
 progress on the job 
 how to start a resume on inportant content
+html basics 
+<html>
+<head>
+<body> 
+<P>
+<h1> headlinig todays digital world <br> <em> bitcoin </em> <br> shiba <br> 
+dodgecoin 
+<button> log in 
+</p>
+</body>
+</head>
+</html>
 
