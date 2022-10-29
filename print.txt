@@ -1,0 +1,41 @@
+new file 
+hay conrad na sot devop di sweet boy 
+making ne changes to loccal repo
+practice more to better under stand how it works
+conrad i am making changis to my local reopsitory 
+making more commit to this file 
+update
+master craft music files update
+i am wandring if i can upload file to my repo and send you this repo my be you can download the files or better still a program file to install on you pc this thinking out loud we could try an see if it work 
+after work pre-work out 101
+time laps outside in 101
+60 push ups
+20pull ups 
+10sit ups 
+settig up visual studio code 
+fother making changis to demo text 
+moving files for working area (git add modified files)
+git status to view file status 
+moving file to staging an fother commit files to local reopsitory
+commit history 
+aplication growing based on commit 
+progress on the job 
+how to start a resume on inportant content
+html basics 
+<html>
+<head>
+<body> 
+<P>
+<h1> headlinig todays digital world <br> <em> bitcoin </em> <br> shiba <br> 
+dodgecoin 
+<button> log in 
+</p>
+</body>
+</head>
+</html>
+ coding is fun 
+coding is flexible 
+conding is easy when well explaind
+put in the time to make chainges in your life 
+hard work pays off condidtency is key 
+
